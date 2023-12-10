@@ -5,7 +5,7 @@ title = 'About Us'
   name = 'About'
   weight = 100
 date = 2023-12-01T15:53:58Z
-draft = true
+draft = false
 +++
 
 ## Create, Learn, Share
