@@ -12,7 +12,7 @@ draft = false
 
 Why do the **Tinkerers** exist?  
 
-I am an engineer who is interested in a wide selection of things.  I get bored easily and try to learn new skills to keep my mind active.
+I am an engineer who is interested in a wide selection of things.  I get bored easily and try to learn new skills to keep my mind "entertained".
 
 I was born in Torbay, but spent most of my working life in other parts of the country.  Most recently around the Reading area, where I was a member of the [Reading Hackspace](https://rlab.org.uk) where there were a number of others with similar interests.  Having moved back to Torbay I am missing the interaction with other people of similar interests and sharing ideas and knowledge.  As far as I can see, there is no similar group that exists locally.  So, I better start one!
 
