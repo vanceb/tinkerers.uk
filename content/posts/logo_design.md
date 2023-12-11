@@ -1,8 +1,9 @@
 +++
 title = 'Logo Design'
+description = 'The development of the Tinkerers logo'
 featured_image = '/images/logo_final.png'
 date = 2023-12-03T17:59:55Z
-draft = true
+draft = false
 +++
 
 ## Everybody needs a logo!
@@ -17,7 +18,7 @@ To kick off the design we started with a "T" shape to reflect the "Tinkerers" in
 
 ### More geometric
 
-The first was a good start, but being an engineer it was a bit free-form for me.  We wanted to constrain the lines to a more geometric set of shapes.  We also liked this logo as it looks a bit like a hammer, the tinkerers tool 😄, and it *breaks into pieces*.
+The first was a good start, but being an engineer it was a bit free-form for me.  I wanted to constrain the lines to a more geometric set of shapes.  I also liked this logo as it looks a bit like a hammer, the tinkerers tool 😄, and it is *broken into pieces*!
 
 ![More geometric](/images/logo_2.png)
 

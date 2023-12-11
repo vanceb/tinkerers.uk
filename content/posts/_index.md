@@ -1,6 +1,7 @@
 +++
 title = 'Posts'
-featured_image = '/images/cover_yacht.jpg'
+description = 'Latest news and projects from the Tinkerers'
+featured_image = '/images/cover_watcombe.jpg'
 [menu]
   [menu.main]
     weight = 50

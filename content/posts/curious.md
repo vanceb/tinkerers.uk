@@ -1,7 +1,7 @@
 +++
 title = 'Curious?'
 date = 2023-11-30T14:57:51Z
-draft = true
+draft = false
 featured_image = '/images/post_curious.jpg'
 +++
 
@@ -37,4 +37,4 @@ Oh, and if you are curious about the cover image, it is a photo of my work-in-pr
 
 ## If you are interested in us then we are interested in you!
 
-As we have said, we are an open and friendly group of creative people.  Although our current membership is heavily science and technology based this is not an exclusive club.  Come along and talk to us; see if you want to be part of the group.
+As we have said, we are an open and friendly group of creative people.  Although our current membership is heavily science and technology based this is not an exclusive club.  If any of the above interests you then please [Contact Us]({{< ref "/contact.md">}}).

@@ -1,6 +1,8 @@
 +++
 title = 'Contact Us'
-#omit_header_text = true
+description = 'Contact us for details of how to join in online or come along to a meeting'
+featured_image = '/images/cover_hopes_nose.jpg'
+omit_header_text = true
 [menu]
   [menu.main]
   name = 'Contact'
