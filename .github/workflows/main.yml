@@ -37,7 +37,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: 'production'  # Backward compatibility
           HUGO_ENV: 'production'
-        run: hugo -v
+        run: hugo --loglevel info
 #      - name: Deploy to S3
 #        run: aws s3 sync public/ s3://${{ secrets.AWS_BUCKET_NAME }}/ --delete
       - name: Deploy site
