@@ -30,7 +30,7 @@ jobs:
 #          mv hugo $HOME/hugo
 ## or
       - name: Install Hugo
-        run: sudo snap install Hugo
+        run: sudo snap install hugo
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Hugo Build
