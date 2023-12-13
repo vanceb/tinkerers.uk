@@ -1,7 +1,7 @@
 +++
 title = 'About Us'
 description = 'Why there is a group, what we are interested in, and how to join in'
-featured_image = '/images/cover_ansteys.jpg'
+featured_image = '/images/cover_ansteys_hd.jpg'
 [menu]
   [menu.main]
   name = 'About'

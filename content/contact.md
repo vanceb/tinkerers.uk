@@ -1,7 +1,7 @@
 +++
 title = 'Contact Us'
 description = 'Contact us for details of how to join in online or come along to a meeting'
-featured_image = '/images/cover_hopes_nose.jpg'
+featured_image = '/images/cover_coleton_fishacre_hd.jpg'
 omit_header_text = true
 [menu]
   [menu.main]
