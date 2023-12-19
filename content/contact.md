@@ -11,4 +11,8 @@ date = 2023-12-02T17:17:15Z
 draft = false
 +++
 
+## Join us to Create, Learn and Share!
+
+If you enjoy making things, learning new skills, and sharing your knowledge and experience as part of a friendly group, then contact us to get access to our online community and monthly meet-ups.
+
 {{< form-contact action="https://formspree.io/f/xrgwwdwa" >}}
