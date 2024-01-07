@@ -1,8 +1,9 @@
 +++
 title = 'Curious?'
 date = 2023-11-30T14:57:51Z
+omit_header_text = true
 draft = false
-featured_image = '/images/post_curious.jpg'
+featured_image = 'curious.jpg'
 +++
 
 <!-- {{< figure src="/images/post_curious.jpg" title="LED Art" >}} -->
