@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{/*
-  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
+  This template is the same as the default and is here to demonstrate that if you have a content directory called "posts" you can create a layouts directory, just for that section.
    */}}
   {{ `<!-- TPL /layouts/post/list.html -->` | safeHTML }}
   <article class="pa3 pa4-ns nested-copy-line-height">
@@ -10,7 +10,7 @@
     <aside class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
         <div class="relative w-100 w-80-l mb4 bg-white">
-          {{ .Render "summary" }}
+          {{ .Render "summary-with-image" }}
         </div>
       {{ end }}
     </aside>
