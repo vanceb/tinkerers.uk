@@ -6,6 +6,12 @@ date: 2024-05-25T16:39:55Z
 draft: false
 ---
 
+## Arduino Display
+
+![Paul's Arduino Display](paul_display.jpg)
+
+Paul has been doing some Arduino coding to get the Tinkerers website details onto the display.  This is proving the capability to write information to the display that we can later use to show other useful information in future projects.  As an example it could be used to show the temperature and humidity in a greenhouse.
+
 ## Robotics
 
 ### Helen's Autonomous Rover
