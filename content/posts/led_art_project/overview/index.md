@@ -17,7 +17,6 @@ This mini series will have 5 posts, which I will release as I write them up.  On
 3. Prototyping - To follow
 4. Custom Printed Circuit Board (PCB) - To follow
 5. 3D Printed Components - To Follow
-<!-- 2. [Design]({{< relref "design" >}}) --> 
 
 ## Project Overview
 
