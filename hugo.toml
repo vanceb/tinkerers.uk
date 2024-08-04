@@ -51,3 +51,9 @@ gzip = true
 # Compress text based assets
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+# The following is needed to allow facebook iframes in posts
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
