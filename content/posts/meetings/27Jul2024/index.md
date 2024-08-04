@@ -2,7 +2,7 @@
 title: "Meeting on 27 July 2024"
 description: 'In-person meeting at Paignton Library'
 featured_image: 'r1d2_banner.jpg'
-date: 2024-0730T15:16:55Z
+date: 2024-07-27T15:16:55Z
 omit_header_text: true
 draft: false
 ---
